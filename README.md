@@ -1,4 +1,4 @@
-Boxplot
+
 Um boxplot é um método para demonstrar graficamente a localidade (tendência central), dispersão e assimetria de grupos de dados numéricos através de seus quartis. 
 
 Além da caixa em um boxplot, pode haver linhas (chamadas de *whiskers*, bigodes em portuês) que se estendem da caixa indicando variabilidade (distância entre os valores) fora dos quartis superiores e inferiores. Outliers que diferem significativamente do restante do conjunto de dados podem ser plotados como pontos individuais além dos bigodes no boxplot. Boxplots são não-paramétricos: eles exibem variação em amostras de uma população estatística sem fazer nenhuma suposição sobre a distribuição estatística subjacente. Os espaçamentos em cada subseção do boxplot indicam o grau de dispersão e assimetria dos dados. Boxplots podem ser desenhados horizontalmente ou verticalmente.
