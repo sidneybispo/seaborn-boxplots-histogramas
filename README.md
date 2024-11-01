@@ -12,3 +12,7 @@ Um boxplot é uma maneira padronizada de exibir o conjunto de dados com base no 
 - Terceiro quartil (Q3 ou 75º percentil): também conhecido como quartil superior, é a mediana da metade superior do conjunto de dados.
 
 Além dos valores mínimo e máximo usados para construir um boxplot, outro elemento importante que também pode ser empregado para obter um boxplot é a amplitude interquartil (IQR), a distância entre os quartis superior e inferior.
+
+Um histograma é uma representação visual da distribuição de dados quantitativos. Para construir um histograma, o primeiro passo é agrupar o intervalo de valores - dividir todo o intervalo de valores em uma série de intervalos - e depois contar quantos valores caem em cada intervalo. Os intervalos (*bins*, em inglês) são geralmente especificados como intervalos consecutivos e não sobrepostos de uma variável. Os bins devem ser adjacentes e geralmente (mas não são obrigados a ser) de tamanho igual.
+
+Os histogramas dão uma ideia aproximada da densidade da distribuição subjacente dos dados e muitas vezes para a estimativa de densidade, ou seja estimar a probabilidade da variável subjacente.
